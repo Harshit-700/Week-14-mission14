@@ -78,9 +78,9 @@ mongoose
   .then(() => {
     console.log(' MongoDB Atlas connected');
     app.listen(PORT, () => {
-      console.log(`🚀 Backend running on http://localhost:${PORT}`);
-      console.log(`   Frontend expected at: http://localhost:3000`);
-      console.log(`   Environment: ${process.env.NODE_ENV || 'development'}`);
+      console.log(`🚀 Backend running on port ${PORT}`);
+      console.log(`🌐 Frontend URL: ${process.env.CLIENT_URL}`);
+      console.log(`🌍 Environment: ${process.env.NODE_ENV || 'development'}`);
     });
   })
   .catch((err) => {
