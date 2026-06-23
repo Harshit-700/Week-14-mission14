@@ -9,7 +9,7 @@ A modern full-stack authentication application built using **React, Node.js, Exp
 📸 Screenshot- ![img alt](https://github.com/Harshit-700/Week-14-mission14/blob/25be80143d9c9f769fa35859ac1e23168436989e/Screenshot%20(449).png)
 
 
-🔗 Live Demo frontend url: https://week-14-mission14-tvzg.vercel.app/login
+🔗 Live Demo frontend url: https://week-14-mission14.vercel.app/login
 🔗 Live Demo backend url: https://week-14-mission14.onrender.com
 
 ## 🚀 Features
